@@ -1,2 +1,1 @@
-# msd
-my simple desktop
+# MSD (My Simple Desktop)
